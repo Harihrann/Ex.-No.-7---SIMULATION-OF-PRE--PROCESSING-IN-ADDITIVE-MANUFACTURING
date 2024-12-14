@@ -35,7 +35,7 @@
 ### ●	All the processes related to pre-processing will be shown on the screen.
 ### ●	Select CAD file preparation from the visible list.
 ### ●	When the first process is selected then it will open in the blank space in the left side of the screen.
-### ●	Select the options of process of pre-processing in the sequence in which they are shown.![2](https://github.com/user-attachments/assets/d968c8e1-ef69-4edf-8812-8c3e2ae79b5c)
+### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
@@ -44,7 +44,6 @@
 ![2](https://github.com/user-attachments/assets/d59f4ca9-9a92-4646-a0e6-d8a265724540)
 ![3](https://github.com/user-attachments/assets/7b595a5e-95b8-4fe6-890e-dc8a2aeccccc)
 ![4](https://github.com/user-attachments/assets/8047dc36-e6a3-4dfb-83d0-aa6652d267ac)
-![4](https://github.com/user-attachments/assets/0cff9d3f-98a5-4400-9e51-0fb543fd0409)
 ![5](https://github.com/user-attachments/assets/07a22932-7e28-4bb2-ad34-a0bf54217d69)
 ![6](https://github.com/user-attachments/assets/2e0e8f51-8b18-40bd-950e-ff15ca7d76d6)
 
